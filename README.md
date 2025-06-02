@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Tecnlogias</p>
+<h2 align="left">Tecnlogias</h2>
 
 ###
 
