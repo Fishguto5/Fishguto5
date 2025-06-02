@@ -1,4 +1,4 @@
-<p align="left">Olá!</p>
+<p align="left">Olá! Sou o Gustavo, estudante de Engenharia de Computação da Unicamp</p>
 
 ###
 
