@@ -1,4 +1,4 @@
-<h3 align="left">Olá! <br>Sou o Gustavo, estudante de engenharia de Computação ma UNICAMP</h3>
+<h3 align="left">HEllo! <br>I'm Gustavo, student of B.S. Computer Engineering at Unicamp</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Tecnologias</h2>
+<h2 align="left">Technologies and Frameworks</h2>
 
 ###
 
