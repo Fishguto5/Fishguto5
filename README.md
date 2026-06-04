@@ -1,4 +1,4 @@
-<h3 align="left">HEllo! <br>I'm Gustavo, student of B.S. Computer Engineering at Unicamp</h3>
+<h3 align="left">Hello! <br>I'm Gustavo, student of B.S. Computer Engineering at Unicamp</h3>
 
 ###
 
