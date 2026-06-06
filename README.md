@@ -48,7 +48,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Computer Vision and Pytorch<br>🎲 Fun fact: I'm a huge fan of the movie Cars ⚡🏆</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Visual Computation and Pytorch<br>🎲 Fun fact: I'm a huge fan of the movie Cars ⚡🏆</p>
 
 ###
 
