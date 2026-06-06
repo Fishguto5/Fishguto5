@@ -38,6 +38,10 @@
 
 <h1 align="left">Hello 👋 What's up?</h1>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavofernandescarvalho/)
+[![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Gustavo__)
+<!--[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Guto05/) -->
+
 ###
 
 <p align="left">My name is Gustavo and I'm a  B.S. Computer Engineering at Unicamp</p>
@@ -105,7 +109,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/gustavofernandescarvalho/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
